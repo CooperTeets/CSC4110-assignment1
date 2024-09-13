@@ -1,1 +1,3 @@
-Cooper Teets hh2078
+CSC4110 Assignment 1
+Cooper Teets 
+hh2078
